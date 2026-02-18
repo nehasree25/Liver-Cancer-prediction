@@ -69,5 +69,5 @@ The application:
 
 ---
 
-## 📂 Project Structure
+
 
